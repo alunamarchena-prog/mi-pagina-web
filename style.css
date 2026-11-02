@@ -1,0 +1,31 @@
+body {
+    background-color: #8fbaff;
+    }
+
+    h1 {
+        color: #2605e3;
+        text-align: center;
+        font-family: "Edu AU VIC WA NT Guides", cursive;
+        }
+
+        h2:hover {
+            color: #de5cff;
+            }
+
+            h2 {
+                color: #e62626;
+                  font-family: "Chela One", system-ui;
+             }
+        
+p {
+        color: #333333;
+        text-align: center;
+        font-family: "Edu AU VIC WA NT Guides", cursive;
+        }
+
+
+  img {
+            display: block;
+            margin: auto;
+            border: 2px solid color;
+            }
